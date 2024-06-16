@@ -17,7 +17,7 @@ Codierungen sind Methoden zur Darstellung von Daten oder Informationen in versch
 
 # Schaltkreistechnik
 
-## Schnittstellen
+## Schnittstellen 
 
 ### Definition Interface
 Eine Schnittstelle (Interface) ist ein Punkt der Interaktion zwischen zwei Systemen, Geräten oder Softwareanwendungen.
