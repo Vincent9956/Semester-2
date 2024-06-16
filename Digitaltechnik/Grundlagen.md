@@ -82,6 +82,7 @@
 ## Schaltalgebra
 
 ### Gesetze der Booleschen Algebra
+Merke * als und | +  als oder 
 - **Identitätsgesetz:** A + 0 = A, A * 1 = A
 - **Null- und Einsgesetz:** A + 1 = 1, A * 0 = 0
 - **Komplementärgesetz:** A + ¬A = 1, A * ¬A = 0
