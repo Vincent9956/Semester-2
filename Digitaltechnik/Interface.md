@@ -1,6 +1,4 @@
-Sicher, hier ist die umgewandelte Markdown-Datei:
 
-```markdown
 # Lernzettel: Schaltkreistechnik und Interfacing
 
 ## Übersicht
@@ -70,6 +68,5 @@ Sicher, hier ist die umgewandelte Markdown-Datei:
   - Beispiele: Lautstärkeregler, Analog-Digital-Wandler, Echtzeituhren, kleine Speicher.
 
 Dieser Lernzettel fasst die wesentlichen Inhalte der Schaltkreistechnik und des Interfacing aus der Präsentation zusammen. Weitere Details und Beispiele sind in der originalen Präsentation zu finden.
-```
 
-Du kannst diesen Text in eine `.md`-Datei speichern.
+

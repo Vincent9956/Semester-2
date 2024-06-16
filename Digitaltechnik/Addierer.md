@@ -1,6 +1,3 @@
-Sicher, hier ist die umgewandelte Markdown-Datei:
-
-```markdown
 # Lernzettel: Grundlagen der Digitaltechnik 2
 
 ## Übersicht
@@ -43,7 +40,7 @@ Sicher, hier ist die umgewandelte Markdown-Datei:
   - Ein Addiernetz zur Addition mehrstelliger Binärzahlen.
   - Besteht aus n Volladdierern (oder n-1 Volladdierern und einem Halbaddierer).
 - **Funktion:**
-  - Die Übertragsbits ci werden von jedem Volladdierer an den nächsten weitergegeben.
+  - Die Übertragsbits c werden von jedem Volladdierer an den nächsten weitergegeben.
   - Dies führt zu einer Verzögerung, da jedes Übertragsbit vom vorhergehenden abhängt.
 - **Probleme:**
   - Längere Laufzeiten aufgrund der Übertragspropagation.
@@ -97,7 +94,4 @@ Sicher, hier ist die umgewandelte Markdown-Datei:
   - **Serieller und paralleler Aufbau:**
     - Mehrere Komparatoren können seriell oder parallel verschaltet werden.
 
-Dieser Lernzettel fasst die wesentlichen Inhalte der Digitaltechnik aus der Präsentation zusammen. Weitere Vertiefungen und Beispiele sind in der originalen Präsentation zu finden.
-```
 
-Du kannst diesen Text in eine `.md`-Datei speichern.
