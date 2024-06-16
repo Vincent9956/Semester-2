@@ -1,4 +1,4 @@
-Sicher, hier ist die umgewandelte Markdown-Datei:
+
 
 ```markdown
 # Lernzettel: Schaltkreistechnik und Interfacing
