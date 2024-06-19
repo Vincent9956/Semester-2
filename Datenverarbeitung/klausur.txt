@@ -1,0 +1,472 @@
+1.Welches sind Betriebssysteme die auf UNIX/Linux basieren?
+	-Deepin 
+	-Debian
+	-Vista
+	-Knoppix
+	-ChromiumOS
+	-Cluserix
+	-Millenium 
+	-DRDOS
+	-OS/2
+	-Radix
+	-XP
+	-AntiX
+	-RedHat
+	-RedZac
+	-SuSE
+	-Kali
+	-Xerox
+	-Vespa
+	-Visa
+	-CPM
+2. Was ist Teil einer Linux Distribution ?
+	-Linux-Kernel
+	-Linux-keypad
+	-USB-Stick
+	-freie Programme
+	-proprietäre Programme
+	-Supportangebot
+	-Hardware
+	-Handbuch
+3. Die Installation eines Linux Systems erfolgt ? 
+	-nur durch den Hersteller
+	-von CD/DVD/USB oder .iso-Image
+	-ausschließlich über das Internet
+	-sinnvoll mit aktiver Internetverbindung
+4. ein linux Rechner besteht aus ?
+	-Hardware
+	-Netzwerk
+	-Multimedia
+	-Benutzerumgebung 
+	-Shell
+	-Kernel
+5. Der "root" Benutzer hat nach einer Standart Installation?
+	-keine Zugriff auf das gesamte UNIX/Linux-Systeme
+	-keine vollen Zugriff kann das gesamte System aber voll administrierten 
+	-Vollen Zugriff kann dieses aber nicht löschen
+	-Vollen Zugriff und kann dieses sogar löschen
+6. Benutzer und Gruppen auf Linux Systemen ...
+	-jeder Benutzer hat eine primäre Gruppe
+	-ein Benutzer kann nur Mitglieder einer Gruppe sein
+	-ein Benutzer kann Mitglied mehrerer Gruppen sein 
+	-bevor ein Benutzer Mitglied einer Gruppe werden kann muss er aus allen anderen Gruppen entfernt werden 
+	-eine Gruppe kann Mitglied einer Gruppe sein 
+7. Aus Unix/Linux Systemen 
+	-können mehrere Administratoren ("roots") gleichzeitig angemeldet sein
+	-können mehrere Benutzer aber nur ein root gleichzeitig angemeldet sein 
+	-können mehrere Benutzer gleichzeitig angemeldet sein 
+	-kann immer nur ein Benutzer angemeldet sein 
+8.Server-Programme unter UNIX/Linux-Systemen...
+	-nennt man "cups"
+	-nennt man "Deamons"
+	-nennt man "Minions"
+	-nennt man "Progresse"
+9.Unix/Linus-Systeme....
+	-haben nie eine grafische Oberfläche
+	-haben immer eine grafische Oberfläche
+	-sind grundsätzlich Mehrbenutzersysteme
+	-unterscheiden zwischen privilegierten und "normalen" Benutzern 
+10.Services also Server-Programme lauschen auf...
+	-Sockets
+	-Ports
+	-intercalls
+	-Speicher
+	
+
+11. Unix/Linus-Systeme...
+	-Sind ausschließlich Server-Systeme 
+	-können als Server und Desktop Systeme genutzt werden 
+	-können gleichzeitig als Server und Desktop-System genutzt werden 
+12.Werden Unix und Linux-systeme nicht ordnungsgemäß herunter gefahren....
+	-gehen immer Daten verloren
+	-gehen vielleicht Daten verloren
+	-gehen nie Daten verloren 
+	-müssen die Systeme neu installiert werden 
+13. Neue Dateien und Verzeichnisse können
+	-von jedem Benutzer an beliebiger Stelle im System angelegt werden
+	-von jedem Benutzer dort angelegt werden wo er berechtigt ist
+	-nur von dem Benutzer angelegt werden der "admin" heißt
+	-ausschließlich vom Benutzer "root" angelegt werden
+14.Neue Benutzer und Gruppen können
+	-von jedem Benutzer angelegt werden
+	-von jedem Benutzer angelegt werden der dazu berechtigt ist
+	-nur von dem Benutzer angelegt werden der "admin" heißt
+	-ausschließlich vom Benutzer "root" angelegt werden
+15.Auf Unix/linux Systemen 
+	-sind alle Benutzer und alle Passwörter in derselben Datei gespeichert 
+	-sind alle Benutzer und alle Gruppen in der selben Datei gespeichert 
+	-sind alle Gruppe und alle Passwörter in der selben Datei gespeichert 
+	-sind alle Benutzer, Gruppen und alle Passwörter in unterschiedlichen Dateien gespeichert 
+	sind alle Benutzer, Gruppen und Passwörter in einer "SystemDB" gespeichert
+16. Das osi Modell zur Rechner Kommunikation beschreibt diese Schichten 
+	-Physik
+	-Verschlüsselung
+	-Datenverbindung 
+	-Netzwerk
+	-Stonith 
+	-Transport
+	-Sitzung
+	-Darstellung
+	-Telnet
+	-Anwendung
+	-Benutzer
+17. Wenn ein Rechner mit einem anderen Rechner in einem TCP/Ip Netzwerk kommunizieren möchte muss er versuchen 
+	-heraus zu finden welches Betriebssystem der andere Rechner hat 
+	-heraus zu finden an welche MAC-Adresse er seine Daten-Pakete schicken muss
+	-heraus zu finden ob er den anderen Rechner direkt oder über googlen erreichen kann
+	-heraus zu finden ob ein Benutzer angemeldet ist
+	-das Internet zu erreichen
+18. In einem TCP/IP Netz Kommunizieren Rechner im selben Netzwerksegment, technisch gesehen
+	-direkt durch Namen miteinander 
+	-direkt durch IP-Adressen miteinander
+	-direkt durch MAC-Adressen miteinander 
+	-direkt durch HTTP miteinander
+	-direkt durch DNS miteinander
+19. TCP/IP-Adressen enthalten eine 
+	-eine  Empfänger Kennung
+	-eine Sender Kennung
+	-eine Host Kennung
+	-eine Typ Kennung
+	-eine Netzwerk Kennung
+20.Um einen Namen zu einer Ip-Adresse aufzulösen befragt ein Rechner 
+	-eine Suchmaschine 
+	-den nächsten Router
+	-die Datei /etc/host
+	-einen DNS server
+	-seine "Registry"
+	
+	
+	
+21. TCP und UDP sind.....
+	-Ports auf einem Server
+	-Programme um Dateien zu kopieren
+	-Transport-Protokolle des OSI-Layers1 
+	-Transport-Protokolle des OSI-Layers4	
+22.TCD und UDP unterscheiden sich darin
+	-TCP Pakete versendet und auf eine Antwort warten und UDP versendet ohne auf Antwort zu warten
+	-UDP Pakete versendet und auf eine Antwort warten und TCP versendet ohne auf Antwort zu warten
+	-beide warten
+	-keiner wartet
+24. Eine URL beschreibt
+	-die Methode und den Weg zu einer Information 
+	-die Programmierschnittstelle einer Internet-Seite
+	-den Zugang zum Internet
+	-beginnt immer mit einem Schema 	
+25. HTTP Verfolung oder sowas
+26. Was passiert bei dem Befehl...
+mv datei1.txt datei2.txt
+	-datei1.txt wird auf datei 2 kopiert
+	-datei 1 ist danach noch vorhanden 
+	-datei 2 ist danach noch vorhanden
+	-datei 2 besteht danach aus dem Inhalt der datei 1 
+	-datei 1 besteht danach aus dem Inhalt der datei 2
+27. Welche Aktionen sind falsch (enden in einer Fehlermeldung)?
+	-cp datei1.txt datei2.txt
+	-cp datei1.txt datei1txt
+	-cp #v datei1.txt datei2.txt
+	-cp -v datei1.txt datei2.txt
+	-cp v++ datei1.txt datei2.txt
+28. Was passiert bei diesem Befehl ...
+In -s Datei1.txt datei2.txt
+	-verknüpfung von datei 1 auf datei 2 
+	-verknüpfung von datei 2 auf datei 1 
+	-verknüpfung von datei 1 auf datei 2 gelöscht
+	-verknüpfung von datei 2 auf datei 1 gelöscht
+29. Was passiert bei diesem Befehl
+cat datei1.txt  datei2.txt
+	-nur datei 1 wird angezeigt
+	-nur datei 2 wird angezeigt 
+	-beide dateien werden nacheinadner angezeigt
+	-datei2 wird mit dem Inhalt von datei 1 überschrieben 
+30.Was passiert bei diesem Befehl?
+cat datei1.txt > datei2.txt
+	-datei2.txt wird mit dem Inhalt von datei 1 überschrieben 
+	-beide Dateien werden nacheinander angezeigt
+	-datei2.txt wird angezeigt
+	-datei1.txt wird angezeigt
+	
+	
+
+31.Was passiert bei diesem Befehl?
+grep -iR "Suchtext"
+	-nichts 
+	-"Suchtext" wird in allen Dateien und nur im aktuellen Verzeichnis gesucht 
+	-"Suchtext" wird in allen Dateien und nur im aktuellen Verzeichnis gesucht und dem darunter liegenden Verzeichnis gesucht
+	-suchtext" wird in allen Dateien und nur im aktuellen Verzeichnis gesucht und dem darunter liegenden Verzeichnis gesucht unabhängig von Groß und Kleinschreibung 
+
+32.Was passiert bei diesem Befehl?
+grep Hund datei2 datei3
+	-nichts
+	-"Hund" wird in allen Dateien im Verzeichnis gesucht
+	-"Hund" wird in Datei2 und datei3 im Aktuellen Verzeichnis gesucht
+	-"Hund" und "hund" werden in allen Dateien im aktuellen Verzeichnis gesucht 
+	-"Hund" und "hund" werden in Datei2 und datei3 im aktuellen Verzeichnis gesucht 
+	
+33. Wo liegt der unterschied ?
+	-more zeigt eine Datei Seite für Seite an 
+	-less zeigt eine Datei Seite für Seite andere
+	-more erlaubt Vor und zurückblättern 
+	-less erlaubt vor und zurückblättern
+	-more erlaubt suchen in der Anzeige
+	-less erlaubt suchen in der Anzeige
+	
+34. die "Shell" ist auf Unix/Linus-System
+	-einen Benutzerumgebung ausschließlich für den Root Benutzer zur Systemverwaltung 
+	-eine Benutzerumgebung für jeden Benutzer in der nur von root festgelegt Kommandos erlaubt sind 
+	-eine Benutzerumgebung für jeden Benutzter in der alle Kommandos abhängig von der Berechtigung ausgeführt werden können
+	-eine Benutzerumgebung in der von jedem Benutzer alle Kommandos erfolgreich ausgeführt werden können
+
+35. -
+36. Eine Datei hat folgende Rechne und Besitzer 
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Chantal aus Gruppe Primär darf 
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+	
+37. Eine Datei hat ursprünglich folgende Rechte und Besitzer 
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chmod 774 datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+
+38 Eine Datei hat ursprünglich folgende Rechte und Besitzer 
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chmod 770datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+
+39eine Datei hat ursprünglich folgende Rechte und Besizter 
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chmod 755tei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+40 eine Datei hat ursprünglich folgende Rechte und Besitzer
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chow hugo:vertrieb datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+	
+	
+41 Eine Datei hat ursprünglich folgende Rechte und Besitzer
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chow Moritz:Lager datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+	
+42 Eine Datei hat ursprünglich folgende Rechte und Besitzer
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	berechtigung wird geändert mit user@host> chow Heidi Buchhaltung datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+
+43 Eine Datei hat ursprünglich folgende Rechte und Besitzer
+rwxrwxrwx karlheinz lager4096 Dez 19 08:03 datei1.txt
+	Berechtigung wird geändert mit user@host> chow Anna:Verkauf datei1.txt
+	Chantal darf jetzt
+	-bearbeiten 
+	-nur anschauen
+	-keines von beiden
+	
+44 Dateisysteme unter Linux
+	-müssen mind 2gb groß sein
+	-können Journaling "sicherer" gegen Beschädigungen gemacht werden 
+	-können durch "xml"-Dateien schneller gemacht werden
+	-können Datein redundant speichern um Verluste zu minimieren 
+	-können maximal 32TB groß sein
+
+45. Linux-Systeme 
+	-Können FAT-Dateisysteme Lesen
+	-können keine FAt Dateisysteme lesen 
+	-kennen nur FAT und NTFS-Dateisysteme
+	-kennen eine Vielzahl von Dateisystemen
+	
+46. im Gegensatz zu Raid3-Systemen vertragen Raid6-Systeme
+	-den Ausfall von mehreren Festplatten ohne Datenverlust 
+	-den Ausfall maximal einer Festplatte ohne Datenverlust
+	-den Ausfall einer Festplatte nur mit Datenverlust
+
+47. Dateisystem und oder Netz"Laufwerke" werden bei  unix-Systemen 
+	-an einer beliebigen Stelle "eingehängt"
+	-über einen Laufwerksbuchstaben angesprochen 
+	-nur an vom Betriebssystem vorgesehenen Stellen ge"mountet"
+	-behandelt wie lokale Verzeichnisse
+	
+48. der Apache-Webserver kann 
+	-auf einer Maschine nur eine Instanz eines Webservices  bereitstellen
+	-auf einer Maschine mehrere Instanzen eines Webservices bereitstellen
+	-auf einer Maschine mehrere Instanzen eines Webservices bereitstellen die über verschiedene Namen erreichbar sein können
+	-auf einer Maschine mehrere Instanzen eines Webservices bereitstellen die über verschiedene Namen und verschiedene Ports erreichbar sein können 
+
+49. Der Apache Web-Server kann 
+	-Kann durch Module zusätzliche Funktionen bereit stellen
+	-kann eine Vielzahl von Druckertreibern verwalten
+	-kann den Zugriff auf Systembefehle und Funktionen erlauben
+	-kann Webseiten mit dynamischen Inhalt generieren
+	-kann eine Vielzahl von Multimediageräten verwalten 
+
+50. ssl-Zertifikate 
+	-werden nur durch staatliche Zertifizierungsstellen ausgestellt.
+	-werden durch definierte Zertifizierungsstellen ausgestellt
+	-werden immer in Papierform ausgestellt
+	-können selbst signiert ausgestellt werden
+	sind immer unbegrenzt gültig
+	
+
+	
+51. ssl Zertifikate
+	-werden bei der abgesicherten Kommunikation zwischen Server und Client verwendet
+	-werden ausschließlich durch staatliche Zertifizierungsstellen überprüft
+	-werden durch Browser überprüft und können nicht selbst geprüft werden
+	-werden durch Browser geprüft werden und können auch selbst geprüft werden
+
+52. WebDAV server
+	-bieten die Möglichkeit den Namen gegen Ip-Adressen aufzulösen damit diese über das Netzwerk von clients verbunden werden können
+	-ist eine zusätzliche Methode auf einem Webserver zuzugreifen
+	-bieten die Möglichkeit Verzeichnisse "frei" zu geben damit sie von bestimmten Nutzern über das Netzwerk von Clients verbunden werden können 
+	-bietet die Möglichkeit Drucker "frei" zu geben damit sie von bestimmten Benutzern über das Netzwerk von Clients verbunden werden können
+	
+53. WebDav Server
+	-Muss immer hinter einer Firewall platziert werden
+	-kann ein Teil eines Webserver sein
+	-kennt Berechtigungen auf Benutzerebene 
+	-kann keine verschlüsselten Dateien speichern 
+
+54. „WebDAV"-Server ...
+	-kann in eine proprietäre Umgebung (z.B. Windows) eingebunden werden
+	-ist eine Software zum Verwalten von IP-Adressen
+	-ist eine weitere Alternative zu anderen Fileservern
+	-kann wie ein proprietärer ActiveDirectory-Server eingesetzt werden
+	-ist eine Software zum Management von (Betriebssystem-)Benutzern/Gruppen
+		
+55. im Gegensatz zum „Samba"-Server hat ein NFS-Server ...
+	-Server Message Blocks als Kommunikationsprotokoll
+	-HyperText Transfer Protokoll als Kommunikationsprotokoll
+	-nur eine Berechtigungsverwaltung auf Netzwerk/IP-Ebene
+	-nur eine Berechtigungsverwaltung auf Benutzer/Gruppen-Ebene
+	
+56.beim Public-Private-Key Verschlüsselungsverfahren...
+	-werden Information mit dem Private-Key verschlüsselt und mit dem Private-Key entschlüsselt
+	-werden Information mit dem Public-Key verschlüsselt und mit dem Public-Key entschlüsselt.
+	-werden Information mit dem Public-Key verschlüsselt und mit dem Private-Key entschlüsselt
+	-werden Information mit dem Private-Key verschlüsselt und mit dem Public-Key entschlüsselt
+	
+57. vi ist ...
+	-eine Alternative zum nano-Editor
+	-in Editor und auf jedem Unix-System vorhanden
+	-eine Software zur Programmierung (= Programmier-„Sprache")
+	
+58. vi kann "sinnvoll" genutzt werden als 
+	-Editor für Konfigurationsdateien 
+	-Editor für -hmtl Dateien
+	-Editor für  Text Dateien
+	-Editor für Bild dateien
+	-Editor für Musik Dateien 
+	-Editor für .XML Datein
+	
+59. Verbindungen mit dem Browser zu einem Webserver via https sind 
+	-immer unverschlüsselt 
+	-immer verschlüsselt 
+	-immer anonym 
+	-nie anonym
+	
+60. Verbindungen mit dem Browser zu einem Webserver via https 
+	-sind durch sicherheislayer abgesichert 
+	-benötigen immer einen Benutzernamen und ein Passwort
+	-benötigen immer ein Zertifikat 
+	-immer anonym
+
+
+61. E-Mail wird nur 
+	-über Webserver versendet 
+	-über Suchmaschinen versendet 
+	-über stattlich kontrollierte Server versendet
+	-über eigens dafür vorgesehene Server versendet 
+	
+62. unter Email wird meist die Kombination von 
+	-userlayer, transport layer und deliverylayer verstanden
+	-Server, client, browser verstanden 
+	-Mail user agent, mail transfer agend und mail delivery agent verstanden
+	-webseite, website und webserver verstanden
+
+63.Bei E-Mail wird meist 
+	-ftp / sftp zum Zugriff auf Mailboxen verwendet
+	-smtp / smtps zum Senden verwendet 
+	-http / https zum Senden verwendet 
+	-imap / imaps zum Zugriff auf Mailboxen verwendet
+	-dav / davs zum Zugriff auf Mailboxen verwendet
+
+64. die Sicherheit beim Versenden und Empfangen von E-Mail ...
+	-ist vergleichbar mit einer Postkarte
+	-ist vergleichbar mit https
+	-kann vergleichbar mit https konfiguriert/eingestellt werden
+
+65. eine sogenannte De-Militarisierte Zone (DMZ)...
+	-kann als Ersatz für das Internet eingesetzt werden
+	-bezeichnet ein Computernetz mit sicherheitstechnisch kontrollierten Zugriffsmöglichkeiten auf die daran angeschlossenen Server
+	-ist ein „Puffer"-Netzwerk, z.B. zwischen dem eigenen Netzwerk und dem Internet
+	-muss von einem offiziellen NIC (Network Information Center) eingerichtet werden
+	
+67 eine Firewall ...
+	-regelt nur den Transport eingehender Netzwerk-Pakete ... 
+	-regelt nur den Transport ausgehender Netzwerk-Pakete ... 
+	-regelt den Transport eingehender und ausgehender Netzwerk-Pakete
+	
+68 eine Firewall
+	-kann mehrere Netzwerkanschlüsse überwachen
+	-kann immer nur einen Netzwerkanschluss überwachen 
+	-kann Netzwerkpaketen nur im Original transportieren 
+	-kann bei Netzwerkpaketen das Ziel verändern
+	
+69 Zusätzlich zu einer Firewall kann eine aktive Überwachung, wie z.B. Fail2Ban...
+	-bestimme IP-Adressen von der Kommunikation ausschließen
+	-bestimme Benutzer von der Kommunikation ausschließen
+	-bestimme Hardware-Adressen von der Kommunikation ausschließen
+	-mehrere IP-Adressen von der Kommunikation ausschließen
+	
+70 ein Portscanner ...
+	-kann bei einem einzelnen Rechner ausschließlich die aktive IP-Adresse prüfen
+	-kann in einem Netzwerk die aktiven IP-Adresse(n) prüfen
+	-kann bei einem einzelnen Rechner die IP-Adresse und alle weiteren TCP/UDP-Ports prüfen
+	-kann in einem Netzwerk alle TCP/UDP-Ports prüfen
+
+71 Cluster ...
+	-werden zum besseren Management von Diensten verwendet
+	-werden zur Steigerung der Verfügbarkeit von Diensten verwendet werden sowohl Datenkomprimierung als auch Datendeduplizierung verwendet
+	-werden sowohl zur Steigerung der Verfügbarkeit von Diensten als auch zur Erhöhung der Perfomance von Diensten verwendet
+
+72 Cluster ...
+	-bestehen aus höchstens 2 Rechnern („Nodes") und verwalten höchstens eine gemeinsame Ressource und stellen diese zur Verfügung
+	-bestehen aus mindestens 2 Rechnern („Nodes"), verwalten auch mehrere gemeinsame Ressourcen und stellen diese zur Verfügung
+	-bestehen aus mindestens 2 Rechnern („Nodes") und verwalten mindestens eine gemeinsame Ressource und stellen diese zur Verfügung
+	-bestehen aus höchstens 2 Rechnern („Nodes"), verwalten auch mehrere gemeinsame Ressourcen, stellen jedoch nur eine dieser Ressourcen zur Verfügung
+
+73 „stonith" ist eine Methode ...
+	-einen Cluster performanter zu gestalten
+	-Dateien nach einem Ausfall eines Server neu zu ordnen
+	-zu versuchen einen Cluster neu zu synchronisieren
+	-einen Server als Cluster zu konfigurieren
+
+74 die grafische Oberfläche von UNIX/Linux Systemen besteht normalerweise aus ...
+	-dem Display-Manager
+	-dem Window-Manager
+	-dem Grafik-Manager
+	-dem Icon-Manager
+
+75 die grafische Oberfläche von UNIX/Linux Systemen ...
+	-ist einheitlich und immer gleich für jede Distribution festgelegt
+	-kann individuell angepasst werden
+	-kann abgeschaltet werden
+	-hängt grundsätzlich vom installierten und aktivierten „Lizenzmanager" ab
